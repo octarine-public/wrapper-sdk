@@ -1,0 +1,14 @@
+{
+    "eslint.enable": true,
+    "editor.insertSpaces": false,
+    "npm.packageManager": "yarn",
+    "task.allowAutomaticTasks": "on",
+    "json.schemaDownload.enable": true,
+    "typescript.format.semicolons": "remove",
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "files.eol": "\n"
+}
