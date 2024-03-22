@@ -1,11 +1,11 @@
 {
 	"compileOnSave": true,
 	"compilerOptions": {
+		"rootDir": ".",
+		"baseUrl": ".",
 		"target": "esnext",
 		"module": "ES2022",
 		"moduleResolution": "Node",
-		"rootDir": "../../../",
-		"baseUrl": "../../../",
 		"noEmit": true,
 		"outDir": "scripts/",
 		"noUnusedLocals": true,
